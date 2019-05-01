@@ -1,0 +1,25 @@
+{
+    "name": "alioxx/alioxx",
+    "description": "First Laravel Project",
+    "homepage": "https://github.com/alioxx/alioxx",
+	"keywords": ["Laravel Project"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Here :",
+            "homepage": "https://coins-generator.org/imvu-credits-get-unlimited-imvu-credits-%e2%9c%85/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
